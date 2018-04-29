@@ -1,0 +1,5 @@
+name: DCManila Rules Action
+type: module
+description: Custom rules action
+author: Roald Umandal
+core: 8.x
